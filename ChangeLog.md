@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 
 
 
+## Release 1.5
+- FIX : Displays the button to attach a file in all cases, with a warning message if no file is available - *07/02/2025* - 1.5.2
+- FIX : Compat v21 - *17/12/2024* - 1.5.1
+        Suppression retropcompat <=V15
+
+- FIX : Compat v20 - Changed Dolibarr compatibility range to 16 min - 20 max - *23/07/2024* - 1.5.0
+
 ## Release 1.4
 
 - FIX : PHP 8.2 Compatibility and object compatibility - *12/01/2023* - 1.4.2
